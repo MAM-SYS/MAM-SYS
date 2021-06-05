@@ -10,13 +10,14 @@ I'm in love with LINUX
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Django-333333?style=for-the-badge&logo=django)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-333333?style=for-the-badge&logo=postgresql)
+![Nginx](https://img.shields.io/badge/-Nginx-333333?style=for-the-badge&logo=nginx)
 ![Celery](https://img.shields.io/badge/-Celery-333333?style=for-the-badge&logo=celery)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis)
 
 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAM-SYS&show_icons=true&theme=tokyonight)
 
