@@ -9,7 +9,6 @@ I'm in love with LINUX
 ## Skills and Experience
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Django-333333?style=for-the-badge&logo=django)
-![API](https://img.shields.io/badge/-API-333333?style=for-the-badge&logo=api)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-333333?style=for-the-badge&logo=postgresql)
 ![Celery](https://img.shields.io/badge/-Celery-333333?style=for-the-badge&logo=celery)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis)
