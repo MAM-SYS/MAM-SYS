@@ -1,6 +1,6 @@
 ### Bonjour 👋 I'm Mohammad Hossein Yazdani
 
-I'm python programmer and django developer
+I'm a python programmer
 
 I live in the backend side
 
