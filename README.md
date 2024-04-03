@@ -1,10 +1,8 @@
 ### Bonjour 👋 I'm Mohammad Hossein Yazdani
 
-I'm a python programmer
+A backend developer skilled in both Golang and Python.
 
-I live in the backend side
 
-I'm in love with LINUX
 
 ## Skills and Experience
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
